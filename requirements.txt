@@ -1,6 +1,6 @@
 numpy
 pandas
 scikit-learn
-streamlit as st
+streamlit
 Pillow
 joblib
