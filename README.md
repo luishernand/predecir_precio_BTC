@@ -31,5 +31,5 @@ El proyecto se encuentra en desarrollo y se espera obtener resultados en las pr�
 - Desarrollar estrategias de trading más efectivas.
 - Comprender mejor los factores que influyen en el precio de Bitcoin.   
 
-**Conclusión:**
+**Conclusión:**  
 La predicción del precio de Bitcoin es un problema complejo, pero el uso de Machine Learning puede ser una herramienta útil para mejorar la precisión de las predicciones. Este proyecto tiene como objetivo desarrollar un modelo de Machine Learning que pueda ser utilizado para tomar decisiones de inversión más informadas y desarrollar estrategias de trading más efectivas.  
