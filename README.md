@@ -18,6 +18,7 @@ Identificar los factores más relevantes que influyen en el precio de Bitcoin.
 - Bases de datos: Yahoo Finance  
 
 **Skills:** 
+
 - Python
 - Machine Learning
 - Análisis de datos
@@ -25,6 +26,7 @@ Identificar los factores más relevantes que influyen en el precio de Bitcoin.
 - Regresión lineal
 
 **Resultados:**  
+
 El proyecto se encuentra en desarrollo y se espera obtener resultados en las próximas semanas. Se espera que el modelo de Machine Learning desarrollado pueda predecir el precio futuro de Bitcoin con una precisión razonable. Los resultados del proyecto se podrán utilizar para:  
 
 - Tomar decisiones de inversión más informadas.
@@ -32,4 +34,5 @@ El proyecto se encuentra en desarrollo y se espera obtener resultados en las pr�
 - Comprender mejor los factores que influyen en el precio de Bitcoin.   
 
 **Conclusión:**  
+
 La predicción del precio de Bitcoin es un problema complejo, pero el uso de Machine Learning puede ser una herramienta útil para mejorar la precisión de las predicciones. Este proyecto tiene como objetivo desarrollar un modelo de Machine Learning que pueda ser utilizado para tomar decisiones de inversión más informadas y desarrollar estrategias de trading más efectivas.  
