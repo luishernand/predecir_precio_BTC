@@ -1,4 +1,6 @@
 ## Predicción del precio de Bitcoin usando Machine Learning
+![Bitcoin](https://github.com/luishernand/predecir_precio_BTC/blob/main/BTC.jpg)  
+
 **Descripción:**  
 
 Este proyecto tiene como objetivo desarrollar un modelo de Machine Learning para predecir el precio futuro de Bitcoin. Se utilizarán diferentes algoritmos de aprendizaje automático para analizar datos históricos del precio de Bitcoin, así como otros factores relevantes, como el volumen de trading. El modelo se entrenará y evaluará utilizando diferentes métricas de rendimiento para determinar su precisión y confiabilidad.
