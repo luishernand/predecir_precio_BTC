@@ -1,5 +1,6 @@
-![B](https://github.com/luishernand/predecir_precio_BTC/blob/main/BTC.jpg)  
 ## Predicción del precio de Bitcoin usando Machine Learning  
+![B](https://github.com/luishernand/predecir_precio_BTC/blob/main/BTC.jpg)  
+ 
 
 **Descripción:**  
 
