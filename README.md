@@ -40,7 +40,8 @@ El proyecto se encuentra en desarrollo y se espera obtener resultados en las pr�
 
 La predicción del precio de Bitcoin es un problema complejo, pero el uso de Machine Learning puede ser una herramienta útil para mejorar la precisión de las predicciones. Este proyecto tiene como objetivo desarrollar un modelo de Machine Learning que pueda ser utilizado para tomar decisiones de inversión más informadas y desarrollar estrategias de trading más efectivas.  
 
-### codigo Fuente 
+### código Fuente 
 |Archivo|Descripción|
 |-------|-----------|
-|[notebook](https://nbviewer.org/github/luishernand/predecir_precio_BTC/blob/main/BTC.ipynb) | Algoritmos utilizados para predecir el precio del BITCOIN | 
+|[notebook](https://nbviewer.org/github/luishernand/predecir_precio_BTC/blob/main/BTC.ipynb) | Algoritmos utilizados para predecir el precio del BITCOIN |  
+|GUI |interfaz de usuario para la predicción|
