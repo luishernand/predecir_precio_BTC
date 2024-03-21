@@ -17,7 +17,7 @@ Identificar los factores más relevantes que influyen en el precio de Bitcoin.
 **Herramientas utilizadas:** 
 - Lenguajes de programación: Python  
 - Librerías de Machine Learning: Pandas, NumPy, Scikit-learn  
-- Plataformas de desarrollo: Jupyter Notebook, steamlit  
+- Plataformas de desarrollo: Jupyter Notebook, streamlit  
 - Bases de datos: Yahoo Finance  
 
 **Skills:** 
