@@ -44,4 +44,4 @@ La predicción del precio de Bitcoin es un problema complejo, pero el uso de Mac
 |Archivo|Descripción|
 |-------|-----------|
 |[notebook](https://nbviewer.org/github/luishernand/predecir_precio_BTC/blob/main/BTC.ipynb) | Algoritmos utilizados para predecir el precio del BITCOIN |  
-|GUI |interfaz de usuario para la predicción|
+|[GUI](https://github.com/luishernand/predecir_precio_BTC/blob/main/gui.py) |Código de la interfaz usuario |
