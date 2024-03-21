@@ -47,4 +47,8 @@ La predicción del precio de Bitcoin es un problema complejo, pero el uso de Mac
 |[GUI](https://github.com/luishernand/predecir_precio_BTC/blob/main/gui.py) |Código de la interfaz usuario |
 |Dashboard|realizado con la libreria streamlit|  
 
+![d](https://github.com/luishernand/predecir_precio_BTC/blob/main/APP.png)  
+![g](https://github.com/luishernand/predecir_precio_BTC/blob/main/GUI.png)  
+
+
 
