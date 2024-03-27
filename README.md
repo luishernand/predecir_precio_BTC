@@ -30,7 +30,7 @@ Identificar los factores más relevantes que influyen en el precio de Bitcoin.
 
 **Resultados:**  
 
-El proyecto se encuentra en desarrollo y se espera obtener resultados en las próximas semanas. Se espera que el modelo de Machine Learning desarrollado pueda predecir el precio futuro de Bitcoin con una precisión razonable. Los resultados del proyecto se podrán utilizar para:  
+Se espera que el modelo de Machine Learning desarrollado pueda predecir el precio futuro de Bitcoin con una buena precisión. Los resultados del proyecto se podrán utilizar para:  
 
 - Tomar decisiones de inversión más informadas.
 - Desarrollar estrategias de trading más efectivas.
